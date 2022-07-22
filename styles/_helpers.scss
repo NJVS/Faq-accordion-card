@@ -1,0 +1,22 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+$font-primary: 'Kumbh Sans', sans-serif;
+
+// Colors
+$color-primary: hsl(14, 88%, 65%);
+$colors-secondary: (
+  'v-dark': hsl(238, 29%, 16%),
+  'dark': hsl(237, 12%, 33%),
+  'light': hsl(240, 6%, 50%),
+  'v-light': hsl(240, 5%, 91%),
+  'white': hsl(0, 0%, 100%)
+);
+$bg-gradient: linear-gradient(180deg, hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+
+// Layouts
+$lay-dt-lg: 1920px;
+$lay-dt-md: 1440px;
+$lay-dt-sm: 1366px;
+$lay-mb-lg: 912px;
+$lay-mb-md: 768px;
+$lay-mb-sm: 426px;
